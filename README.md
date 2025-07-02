@@ -3,7 +3,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yuqi%20Wu&fontSize=70&fontColor=ffffff&animation=fadeIn)
 </div>
 
-<h3 align="center">🎓 PhD Student @ UCAS | ☁️ Cloud Native Enthusiast | 🐧 Open Source Contributor</h3>
+<h3 align="center">🎓 PhD Student @ UCAS | ☁️ Cloud Native Enthusiast | :wheel_of_dharma: MLSys | 🐧 Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=40AEF0&center=true&vCenter=true&width=800&lines=Exploring+the+Cloud+Native+Ecosystem+with+Golang;Building+Scalable+Systems+with+Kubernetes+and+Istio;Automating+Everything+with+Argo+and+GitOps" alt="Typing SVG" /></a>

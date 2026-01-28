@@ -28,7 +28,7 @@
 
 <div align="center">
   
-| ![ElectricFish7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectricFish7&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricFish7&layout=compact&theme=catppuccin_latte&hide_border=true&bg_color=00000000&langs_count=6) |
+| ![DavidYQWu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidYQWu&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYQWu&layout=compact&theme=catppuccin_latte&hide_border=true&bg_color=00000000&langs_count=6) |
 | ------------- | ------------- |
 
 </div>

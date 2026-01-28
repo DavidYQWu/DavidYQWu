@@ -1,10 +1,14 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yuqi%20Wu&fontSize=70&fontColor=ffffff&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=David%20Wu&fontSize=70&fontColor=ffffff&animation=fadeIn)
 </div>
 
 <h3 align="center">🎓 PhD Student @ UCAS | ☁️ Cloud Native Enthusiast | :wheel_of_dharma: MLSys | 🐧 Open Source Contributor</h3>
-
+ 
+ <p align="center">
+    Seeking an <b>AI Infra / MLSys internship</b> — Kubernetes scheduling & distributed systems.
+  </p>
+  
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=40AEF0&center=true&vCenter=true&width=800&lines=Exploring+the+Cloud+Native+Ecosystem+with+Golang;Building+Scalable+Systems+with+Kubernetes+and+Istio;Automating+Everything+with+Argo+and+GitOps" alt="Typing SVG" /></a>
 </p>
@@ -28,7 +32,7 @@
 
 <div align="center">
   
-| ![DavidYQWu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidYQWu&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYQWu&layout=compact&theme=catppuccin_latte&hide_border=true&bg_color=00000000&langs_count=6) |
+| ![DavidYQWu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidYQWu&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYQWu&layout=compact&theme=catppuccin_latte&hide_border=true&bg_color=00000000&langs_count=6) |
 | ------------- | ------------- |
 
 </div>
